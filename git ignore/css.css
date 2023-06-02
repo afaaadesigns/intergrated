@@ -1,0 +1,15 @@
+form{
+	background-color: orange;
+	background-size: 80px;
+}
+input{
+	border-radius: 60px;
+	border:2px solid black;
+	width: 80px;
+}
+table{
+	background-color:transparent;
+	margin-top: 2px
+}
+
+
